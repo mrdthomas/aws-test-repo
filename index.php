@@ -12,6 +12,6 @@
 	
 	echo '<br />';
 	
-	$agestr = ($age < 16) ? 'child' : 'adult';
+	$agestr = ($num == 1) ? 'child' : 'adult';
 	echo $agestr;
 ?>
