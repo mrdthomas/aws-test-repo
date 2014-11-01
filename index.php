@@ -10,5 +10,5 @@
 		echo $var;
 	}	
 	
-	$var1 = ($num == 1 ? echo "I a true var1" : echo "I am a false var1");	
+	$agestr = ($age < 16) ? 'child' : 'adult';
 ?>
