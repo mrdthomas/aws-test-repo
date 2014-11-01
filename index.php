@@ -9,4 +9,6 @@
 		$var = "I am not number one :(";
 		echo $var;
 	}	
+	
+	$var = ($num = 1) ? echo "I am ternary number one" : echo "I didnt ternary :(";
 ?>
