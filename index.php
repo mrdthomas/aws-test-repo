@@ -10,6 +10,8 @@
 		echo $var;
 	}	
 	
+	echo '<br />';
+	
 	$agestr = ($age < 16) ? 'child' : 'adult';
 	echo $agestr;
 ?>
