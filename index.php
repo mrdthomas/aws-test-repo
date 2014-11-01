@@ -1,5 +1,5 @@
 <?php
-	$num = 1;
+	$num = 2;
 	
 	if($num == 1) {
 		$var = "I am number one!";
