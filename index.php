@@ -10,5 +10,5 @@
 		echo $var;
 	}	
 	
-	$var = ($num == 1) ? echo "I am ternary number one" : echo "I didnt ternary :(";
+	$var1 = ($num == 1 ? echo "I a true var1" : echo "I am a false var1");	
 ?>
