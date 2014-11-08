@@ -15,5 +15,5 @@
 	$agestr = ($num == 1) ? 'child' : 'adult';
 	echo $agestr;
 
-	echo "<br />This is an update";
+	echo "<br />This is an update to test local -> online -> local";
 ?>
