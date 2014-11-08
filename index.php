@@ -15,5 +15,5 @@
 	$agestr = ($num == 1) ? 'child' : 'adult';
 	echo $agestr;
 
-	echo "Is this gonna be on the branch??";
+	echo "Ok lets merge these branches";
 ?>
